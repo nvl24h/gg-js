@@ -1,5 +1,3 @@
-<script type = "text/javascript" >
-
 var referrer = document.referrer;
 ifm_list_browser = ['google.com', 'google.com.vn'];
 
@@ -47,5 +45,3 @@ function startcountdown() {
         }
     }, 1000);
 }
-
-</script>
